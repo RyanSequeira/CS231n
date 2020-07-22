@@ -12,4 +12,4 @@ I used the following packages with Python 3.6.10:
 * numpy 1.11.3
 * pillow 6.1.0
 * scipy 1.2.1
-
+* future 0.18.2
